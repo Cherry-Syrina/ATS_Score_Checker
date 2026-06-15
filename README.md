@@ -51,7 +51,7 @@ Upload your resume, paste a job description, and get back:
 | **Backend** | [FastAPI](https://fastapi.tiangolo.com/) (Python) |
 | **NLP** | [spaCy](https://spacy.io/) (`en_core_web_md`), [Sentence Transformers](https://www.sbert.net/) (`all-MiniLM-L6-v2`) |
 | **LLM** | [Groq API](https://groq.com/) (Llama 3) |
-| **Auth + Database** | [Supabase](https://supabase.com/) (email/password & Google OAuth) |
+| **Auth + Database** | [Supabase](https://supabase.com/) (email/password ) |
 | **PDF Reports** | WeasyPrint + Jinja2 |
 
 ---
