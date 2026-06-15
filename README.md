@@ -9,8 +9,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-[🔗 Try it Live](https://ats-score-resume.streamlit.app/) · [Report a Bug](https://github.com/Cherry-Syrina/ATS_Score_Checker/issues) · [Request a Feature](https://github.com/Cherry-Syrina/ATS_Score_Checker/issues)
-
+[🔗 Try it Live](https://ats-score-resume.streamlit.app/) ·
 </div>
 
 ---
