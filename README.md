@@ -140,8 +140,8 @@ App will open at `http://localhost:8501`.
 ---
 
 ## 📸 Screenshots
+<img width="1727" height="905" alt="image" src="https://github.com/user-attachments/assets/eda2a93a-0969-4453-99ed-b95290c09489" />
 
-> _Add a few screenshots/GIFs of the landing page, scorer, and results dashboard here._
 
 ---
 
